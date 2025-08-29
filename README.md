@@ -127,7 +127,3 @@ This API can be deployed to various platforms:
 ## Author
 
 Sakshee - 22BCE11597
-
-## License
-
-MIT
