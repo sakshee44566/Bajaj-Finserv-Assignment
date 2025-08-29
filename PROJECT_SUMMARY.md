@@ -129,25 +129,6 @@ node test.js
 3. Deploy automatically
 4. Test deployed endpoint
 
-## 📝 Next Steps for Submission
-
-1. **Create GitHub Repository:**
-   - Follow `GITHUB_SETUP.md` instructions
-   - Push all code to public repository
-
-2. **Deploy API:**
-   - Follow `DEPLOYMENT.md` instructions
-   - Choose Vercel for easiest deployment
-
-3. **Submit Form:**
-   - Use deployed API URL: `https://your-url.com/bfhl`
-   - Include GitHub repository link
-
-4. **Verify:**
-   - Test all examples on deployed API
-   - Ensure 200 status codes
-   - Verify response format matches requirements
-
 
 ## 📞 Support
 
